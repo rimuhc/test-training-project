@@ -1,5 +1,10 @@
 araceli
+<<<<<<< HEAD
 sdfsdfdsfsdfsdfsdfdsf
 sddsgfdgfdgdfgsdfsdfds
 
 sdfsdfdssdfsdfsdfeefsdfdsf
+=======
+many
+nhi
+>>>>>>> c3662e20a2844492691ecef11fbe9b784fd8b349
